@@ -8,7 +8,6 @@ function App() {
   return (
     <>
       AQUI PRUEBAS
-      
       <Component1 />
       <Component2/>
     </>
