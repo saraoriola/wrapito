@@ -4,7 +4,7 @@ import Button from '../components/Button/Button';
 
 const Component1 = () => {
   const handlePostClick = () => {
-    console.log('Lógica para el Componente1');
+      console.log('Lógica para el Componente1');
   };
 
   return (
